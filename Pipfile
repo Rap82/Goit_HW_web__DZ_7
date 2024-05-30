@@ -1,0 +1,15 @@
+[[source]]
+url = "https://github.com/sergiokapone/goit_python_web_hw7"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sqlalchemy = "*"
+psycopg2 = "*"
+alembic = "*"
+faker = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
